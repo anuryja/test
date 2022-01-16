@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 testing line
 commit test
+=======
+untesting line
+
+>>>>>>> 1a4e4bafef78ede20a85c5836df761b4063cb441
 456
 
 789.
